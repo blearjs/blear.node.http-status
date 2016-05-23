@@ -1,5 +1,5 @@
 {
-  "name": "blear.express.http-status",
+  "name": "blear.node.http-status",
   "version": "1.0.0",
   "description": "NODE http 状态码",
   "scripts": {
